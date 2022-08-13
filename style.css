@@ -1,0 +1,150 @@
+html {
+    background-color: black;
+}
+
+.logo {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    padding: 10px;
+}
+
+.form {
+    position: absolute;
+    left: 200px;
+    top: 15px;
+    padding: 10px;
+    height: 50px;
+    width: 900px;
+    margin-top: auto;
+}
+
+#input {
+    width: 900px;
+}
+.nav-bar #buttons {
+    list-style-type: none;
+    display: inline-block;
+    overflow: hidden;
+    position: absolute;
+    right: 20px;
+    top: 0px;
+    padding: 0px;
+}
+
+  li {
+    float: left;
+    border: 1px hidden;
+  }
+
+  li a {
+    display: inline-block;
+    background-color: #B22222;
+    border-radius: 20%;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+div.FSWD {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    padding: 0%;
+}
+h2 {
+    color: #FFFFFF;
+    text-shadow: 1px 1px 0px #e6e6e6;
+    margin-bottom: -13px;
+}
+p {
+    color: #FFFFFF;
+    margin-bottom: 0.5em;
+}
+
+#device {
+    position: absolute;
+    left: 200px;
+    top: 262px;
+}
+  .article {
+    position: relative;
+    top: -5px;
+    background-color: darkslategray;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  h1 {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 0px #e6e6e6;
+  }
+  #columns {
+    display: flex;
+   justify-content: space-around;
+  }
+
+.leftcolumn {
+    background: #3366cc;
+    color: #FFFFFF;
+    border-radius: 8%;
+    border: hidden;
+    margin: 20px 5px;
+    width: 280px;
+    height: 200px;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    size: 10pt; 
+    margin-left: 40px;
+}
+
+.middlecolumn {
+    background: #3366cc;
+    color: #FFFFFF;
+    border-radius: 8%;
+    border: hidden;
+    margin: 20px 5px;
+    width: 280px;
+    height: 200px;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    size: 10pt; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.rightcolumn {
+    background: #3366cc;
+    color: #FFFFFF;
+    border-radius: 8%;
+    border: hidden;
+    margin: 20px 5px;
+    width: 280px;
+    height: 200px;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    size: 10pt; 
+    margin-right: 40px;
+    }
+
+#click {
+    background-color: azure;
+    color: blue;
+}
+
+#footer {
+background-color: black;
+color: white;
+width: 100%;
+text-align: center;
+height: 100px;
+font-size: small;
+vertical-align: bottom;
+padding-top: 25px;
+}
