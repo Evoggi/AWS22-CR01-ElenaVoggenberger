@@ -6,7 +6,7 @@ html {
     position: absolute;
     left: 10px;
     top: 10px;
-    padding: 10px;
+    padding: 5px;
 }
 
 .form {
@@ -29,7 +29,7 @@ html {
     position: absolute;
     right: 20px;
     top: 0px;
-    padding: 0px;
+    padding: 5px;
 }
 
   li {
@@ -43,13 +43,15 @@ html {
     border-radius: 20%;
     color: white;
     text-align: center;
-    padding: 14px;
+    padding: 7px 10px;
     text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
 div.FSWD {
     position: absolute;
-    left: 200px;
+    left: 280px;
     top: 200px;
     padding: 0%;
 }
@@ -65,7 +67,7 @@ p {
 
 #device {
     position: absolute;
-    left: 200px;
+    left: 280px;
     top: 262px;
 }
   .article {
@@ -73,14 +75,16 @@ p {
     top: -5px;
     background-color: darkslategray;
     width: 100%;
-    height: 300px;
+    height: 250px;
     text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
   h1 {
     color: #FFFFFF;
-    text-shadow: 2px 2px 0px #e6e6e6;
+    text-shadow: 1px 2px 0px #e6e6e6;
+    margin-bottom: 0px;
+    margin-top: 2px;
   }
   #columns {
     display: flex;
@@ -90,11 +94,11 @@ p {
 .leftcolumn {
     background: #3366cc;
     color: #FFFFFF;
-    border-radius: 8%;
+    border-radius: 4%;
     border: hidden;
     margin: 20px 5px;
     width: 280px;
-    height: 200px;
+    height: 180px;
     float: left;
     padding-left: 15px;
     padding-right: 15px;
@@ -105,11 +109,11 @@ p {
 .middlecolumn {
     background: #3366cc;
     color: #FFFFFF;
-    border-radius: 8%;
+    border-radius: 4%;
     border: hidden;
     margin: 20px 5px;
     width: 280px;
-    height: 200px;
+    height: 180px;
     float: left;
     padding-left: 15px;
     padding-right: 15px;
@@ -121,11 +125,11 @@ p {
 .rightcolumn {
     background: #3366cc;
     color: #FFFFFF;
-    border-radius: 8%;
+    border-radius: 4%;
     border: hidden;
     margin: 20px 5px;
     width: 280px;
-    height: 200px;
+    height: 180px;
     float: left;
     padding-left: 15px;
     padding-right: 15px;
